@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b223455a-b485-4393-880d-7e4823e040a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/javaprograms/LongestSubstringWithoutRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/ARR.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ARR.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cE0CpgPStEjYZGPJkL5xpi6cLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.ARR.executor": "Run",
+    "Application.Ac.executor": "Run",
+    "Application.AnagramString.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrayDuplicate.executor": "Run",
+    "Application.ArrayProblem.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.C.executor": "Run",
+    "Application.CC.executor": "Run",
+    "Application.CharacterFrequencyDesc.executor": "Run",
+    "Application.CheckAnagram.executor": "Run",
+    "Application.CheckPrime.executor": "Run",
+    "Application.CheckStringRotation.executor": "Run",
+    "Application.CompareStringWithoutMethod.executor": "Run",
+    "Application.Examples.executor": "Run",
+    "Application.Exception_handling.executor": "Run",
+    "Application.FirstLetterToCapitalAndSort.executor": "Run",
+    "Application.FirstLetterToCapitalAndSort1.executor": "Debug",
+    "Application.IntegerToWord.executor": "Run",
+    "Application.NumberToWord.executor": "Run",
+    "Application.PalindromNumber.executor": "Debug",
+    "Application.PrintSubstrings.executor": "Debug",
+    "Application.RemoveDuplicateArray.executor": "Run",
+    "Application.RemoveDuplicateString.executor": "Run",
+    "Application.SecondLargestWithoutSorting.executor": "Debug",
+    "Application.Str.executor": "Run",
+    "Application.StrinSplit.executor": "Run",
+    "Application.StringPallindrome.executor": "Run",
+    "Application.StringProgramm1.executor": "Run",
+    "Application.StringProgramm2.executor": "Run",
+    "Application.StringsProgramms1.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.SubStrings.executor": "Run",
+    "Application.SubstringMethod.executor": "Run",
+    "Application.practice.C.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ARR">
+    <configuration name="ARR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ARR" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterFrequencyDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.CharacterFrequencyDesc" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Examples" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.PrintSubstrings" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.SubStrings" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ARR" />
+        <item itemvalue="Application.SubStrings" />
+        <item itemvalue="Application.PrintSubstrings" />
+        <item itemvalue="Application.CharacterFrequencyDesc" />
+        <item itemvalue="Application.Examples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b223455a-b485-4393-880d-7e4823e040a2" name="Changes" comment="" />
+      <created>1707661306628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707661306628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/javaprograms/PalindromNumber.java</url>
+          <line>3</line>
+          <properties class="javaprograms.PalindromNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/javaprograms/FirstLetterToCapitalAndSort1.java</url>
+          <line>6</line>
+          <properties class="javaprograms.FirstLetterToCapitalAndSort1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/javaprograms/PrintSubstrings.java</url>
+          <line>3</line>
+          <properties class="javaprograms.PrintSubstrings" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
